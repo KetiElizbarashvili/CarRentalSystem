@@ -34,7 +34,7 @@ int main()
     string proceedPayment;
     string playAgain;
 
-    cout << "\n\t\tWelcome to SmashedFrenzy16's Car Rental Service!";
+    cout << "\n\t\tWelcome to Keto's Car Rental Service!";
 
     cout << "\n\nPlease register your details below:" << endl;
 
